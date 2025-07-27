@@ -26,7 +26,8 @@ This repository is organized into separate directories for each part of the chal
 
 ---
 
-### ✅ Challenge 1A: PDF Outline Extractor
+### ✅ [Challenge 1A: PDF Outline Extractor](./Challenge_1a/)
+
 
 A **robust, containerized solution** that automatically extracts a structured outline from any PDF document.
 

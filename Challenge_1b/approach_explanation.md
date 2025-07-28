@@ -93,7 +93,7 @@ You can extend chunk objects like:
 
 All chunks are collected in a Python list and can be:
 
-- Stored in a JSONL/CSV for later use
+- Stored in a JSON/CSV for later use
 - Sent to a vector store for semantic search
 - Passed into a transformer pipeline
 

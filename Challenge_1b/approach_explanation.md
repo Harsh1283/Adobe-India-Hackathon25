@@ -58,7 +58,7 @@ We filter out blocks based on simple heuristics:
 - Strip noisy characters
 
 ```python
-if len(text.strip()) > 100:
+if len(text.strip()) > 80:
     chunks.append({
         "text": text.strip(),
         "page": i + 1,

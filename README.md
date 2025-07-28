@@ -38,7 +38,7 @@ A **robust, containerized solution** that automatically extracts a structured ou
 
 ---
 
-### ✅ Challenge 1B: Persona-Driven Document Intelligence
+### ✅ [Challenge 1B: Persona-Driven Document Intelligence](./Challenge_1b/)
 
 An advanced system that acts as an **intelligent document analyst**.
 
